@@ -9,7 +9,7 @@ Simula la curva de calentamiento del agua en una parrilla eléctrica,
 calculando temperatura y masa líquida segundo a segundo hasta la
 evaporación completa.
 
-Desarrollado como proyecto de **Termodinámica** (G9 2023-2).
+Desarrollado como proyecto de **Termodinámica - 1437** (Gpo:9 Sem:2023-2).
 
 ---
 
